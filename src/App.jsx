@@ -5,11 +5,8 @@ import Greeting from './Greetings.jsx'
 
 function App() {
   
-  
 
   return (
-
-
     <>
       <Routes>
         <Route path="/" element={<Greeting />} />
