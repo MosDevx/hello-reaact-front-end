@@ -31,13 +31,13 @@
 <summary>Server</summary>
   <ul>
     <li><a href="https://www.ruby-lang.org/en/">Rails</a></li>
-    <a href="https://github.com/MosDevx/hello-rails-back-end">REPO</a>
+    <a href="https://github.com/MosDevx/hello-rails-back-end">Back End Repo</a>
   </ul>
 </details>
 <summary>Frontend</summary>
   <ul>
     <li><a href="https://www.ruby-lang.org/en/">React</a></li>
-   <a href="https://github.com/MosDevx/hello-reaact-front-end">REPO</a>
+   <a href="https://github.com/MosDevx/hello-reaact-front-end">Front End Repo</a>
   </ul>
 </details>
 
