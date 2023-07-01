@@ -1,11 +1,8 @@
-
-import './App.css'
-import {Routes , Route} from 'react-router-dom'
-import Greeting from './Greetings.jsx'
+import './App.css';
+import { Routes, Route } from 'react-router-dom';
+import Greeting from './Greetings.jsx';
 
 function App() {
-  
-
   return (
     <>
       <Routes>
@@ -13,8 +10,7 @@ function App() {
       </Routes>
     </>
 
-
-  )
+  );
 }
 
-export default App
+export default App;
