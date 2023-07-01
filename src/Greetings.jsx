@@ -1,15 +1,9 @@
-import React, { useState, useEffect } from 'react';
-import ReactDOM from 'react-dom';
-import axios from "axios";
-import {
-  createBrowserRouter,
-  RouterProvider,
-} from "react-router-dom";
+
 
 import { useGetGreetingQuery } from './Redux/apiSlice';
 
 function Greeting() {
-  const [data, setData] = useState("hey");
+
 
 	const { data: greeting, error, isLoading } = useGetGreetingQuery();
 
